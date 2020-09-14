@@ -12,6 +12,7 @@
     <session id="-2095959954">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -97,6 +98,9 @@
       <find>90s</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -138,6 +142,7 @@
     <option name="width" value="1280" />
     <option name="height" value="710" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -212,12 +217,12 @@
       <workItem from="1548836034784" duration="3924000" />
       <workItem from="1549370556617" duration="541000" />
       <workItem from="1598541867465" duration="14000" />
-      <workItem from="1598541938697" duration="693000" />
+      <workItem from="1598541938697" duration="751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81705000" />
+    <option name="totallyTimeSpent" value="81763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
